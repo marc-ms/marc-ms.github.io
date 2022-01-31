@@ -1,1 +1,1 @@
-This is my very first we page for hosting data science projects.
+This is my very first web page for hosting data science projects.
